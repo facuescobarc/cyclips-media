@@ -1,0 +1,709 @@
+{
+ "generado": "2026-11-13T20:26:53+01:00",
+ "volcado": "2026-11-12T19:07:57+01:00",
+ "publicadas_pc": [
+  "semana_2026-11-09__c1",
+  "semana_2026-11-09__h0",
+  "semana_2026-11-09__h0b",
+  "semana_2026-11-09__h1",
+  "semana_2026-11-09__h1b",
+  "semana_2026-11-09__h1b2",
+  "semana_2026-11-09__h1c",
+  "semana_2026-11-09__h2",
+  "semana_2026-11-09__h3",
+  "semana_2026-11-09__h3b",
+  "semana_2026-11-09__h4",
+  "semana_2026-11-09__h5",
+  "semana_2026-11-09__r1",
+  "semana_2026-11-16__r2",
+  "semana_2026-11-16__s8"
+ ],
+ "piezas": [
+  {
+   "clave": "semana_2026-11-09__c2",
+   "semana": "semana_2026-11-09",
+   "id": "c2",
+   "tipo": "carrusel",
+   "nombre": "Carrusel 2 \"1 stream = 1 week of content\"",
+   "dia": "2026-11-14",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 2,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "Streamed for 6 hours and posted nothing? Here's a simple plan to turn one stream into a full week of content 📅 Save it and try it after your next stream. Cyclips finds the moments for you 👉 cyclips.com\n\n#streamer #streamertips #contentcreator #gamingclips #youtubegaming #smallstreamer #growonyoutube #twitchstreamer",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/c2_01.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/c2_02.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/c2_03.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/c2_04.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/c2_05.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/c2_06.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/c2_07.jpg"
+   ],
+   "md5": [
+    "09add9b4bcc0d80e09eb0b780cba2992",
+    "82283e4265003c4b1676953ba2a28323",
+    "79e8625d0f94b17d968071cca68c003d",
+    "8a6bd1e557da215eb825b4e4ede817a9",
+    "4aa1d4c0b54ce291b5488478511f59da",
+    "51b763ad2147e1a058499ddee48e1342",
+    "219cc666dd3a74204434dd81b7e56596"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-09__h6",
+   "semana": "semana_2026-11-09",
+   "id": "h6",
+   "tipo": "historia",
+   "nombre": "Historia 6 (aviso Carrusel 2)",
+   "dia": "2026-11-14",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 15,
+   "depende_de": "c2",
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/h6_video.mp4"
+   ],
+   "md5": [
+    "44dc8d8e5dd36948c226b084d13ca916"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-09__h7",
+   "semana": "semana_2026-11-09",
+   "id": "h7",
+   "tipo": "historia",
+   "nombre": "Historia 7 \"Sunday stream\"",
+   "dia": "2026-11-15",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 16,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-09/h7_video.mp4"
+   ],
+   "md5": [
+    "871a633a3a9607cd8804f9110e5503f5"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__r3",
+   "semana": "semana_2026-11-16",
+   "id": "r3",
+   "tipo": "reel",
+   "nombre": "Reel \"GTA 6 stream prep\" (Video 9, tendencia GTA 6 n.º 1) · lleva la etiqueta de IA de Meta (voz y streamer de Higgsfield) · usa imágenes oficiales de los tráilers de GTA 6 (Rockstar)",
+   "dia": "2026-11-14",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 17,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "GTA 6 stream prep, 5 days out. 🎮\nSchedule posted. Overlay ready. Mic checked. Snacks stocked.\nAnd then there's the part nobody plans for: who's going through 8 hours of stream every day to find the clips?\nCyclips does. 60 free minutes, no card needed 👉 cyclips.com\nSend this to a streamer who's going live on launch day.\n\n#GTA6 #GTAVI #streamer #twitchstreamer #gamingclips #smallstreamer #contentcreator #streamertips #gaming #youtubegaming",
+   "primer_comentario": null,
+   "ia": false,
+   "tiktok": {
+    "sube": true,
+    "titulo": "GTA 6 stream prep, 5 days out. 🎮"
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/r3_video.mp4"
+   ],
+   "md5": [
+    "8afcf8d281d18b003fcb16efa4079095"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__r4",
+   "semana": "semana_2026-11-16",
+   "id": "r4",
+   "tipo": "reel",
+   "nombre": "Reel \"Bro, send me that clip\" (Video 10, publicitario) · lleva la etiqueta de IA de Meta (juego PEBBLE PUTT y voz de Higgsfield)",
+   "dia": "2026-11-24",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 18,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "\"Bro, send me that clip.\" 📲\nWhich stream? Which hour? You were there and you still can't find it.\nCyclips watches your streams and finds the moments, so the clip is ready when your friend asks. 60 free minutes, no card needed 👉 cyclips.com\nSend this to the friend who always asks for the clip.\n\n#streamer #twitchstreamer #gamingclips #contentcreator #smallstreamer #streamertips #gamingcommunity #clips #youtubegaming #aitools",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": true,
+    "titulo": "\"Bro, send me that clip.\" 📲"
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/r4_video.mp4"
+   ],
+   "md5": [
+    "54868a0f379cffdfcc1a4bc8b736f4f8"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s10",
+   "semana": "semana_2026-11-16",
+   "id": "s10",
+   "tipo": "historia",
+   "nombre": "Historia 10 (aviso del reel \"Bro, send me that clip\")",
+   "dia": "2026-11-24",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 19,
+   "depende_de": "r4",
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s10_video.mp4"
+   ],
+   "md5": [
+    "709ebeb18b3d5c2956543df43b4db190"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__r7",
+   "semana": "semana_2026-11-16",
+   "id": "r7",
+   "tipo": "reel",
+   "nombre": "Reel \"Consistency beats perfection\" (Video 13, publicitario: consejo con Cyclips al final) · ⚠️ Versión nueva: voz regrabada con más energía y grilla centrada. Escuchalo con sonido. · lleva la etiqueta de IA de Meta (personaje, cuarto y voz de Higgsfield) · primer comentario: \"Be honest: how long did your last clip take? 👇\"",
+   "dia": "2026-11-17",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 20,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "Three hours on one clip. 212 views. Sound familiar?\nThe algorithm doesn't grade effort. Every video gets its own test, so the streamers who grow are the ones who keep showing up.\n1. Show up. One clip a day beats seven on Monday and then nothing.\n2. Good, not perfect.\n3. Ride the trend. GTA 6 drops Thursday.\nSave this for your next stream, and send it to the streamer friend who's still editing at 3 AM.\nSources: Buffer, 100K+ accounts (2025): consistent posters got ~5x more engagement per post. Buffer, 11.4M TikToks (2025): 6–10 posts a week got up to 29% more views per post than 1 a week. TikTok (2020): follower count isn't a direct factor.\nCyclips finds the clips in every live. 60 free minutes, no card needed 👉 cyclips.com\n\n#streamertips #smallstreamer #twitchstreamer #contentcreator #gamingclips #streamer #creatortips #growontiktok #contentconsistency #gta6",
+   "primer_comentario": null,
+   "ia": false,
+   "tiktok": {
+    "sube": true,
+    "titulo": "Three hours on one clip. 212 views. Sound familiar?"
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/r7_video.mp4"
+   ],
+   "md5": [
+    "1bf134a252a0b84e96dd93c7db616ee0"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s13",
+   "semana": "semana_2026-11-16",
+   "id": "s13",
+   "tipo": "historia",
+   "nombre": "Historia 13 (aviso del reel \"Consistency beats perfection\")",
+   "dia": "2026-11-17",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 21,
+   "depende_de": "r7",
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s13_video.mp4"
+   ],
+   "md5": [
+    "a29dfc288bc23171ec90031743c0cd1b"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__r5",
+   "semana": "semana_2026-11-16",
+   "id": "r5",
+   "tipo": "reel",
+   "nombre": "Reel \"Everyone's live with GTA 6 today\" (Video 11, tendencia GTA 6 n.º 2, día del lanzamiento) · lleva la etiqueta de IA de Meta (voz y streamer de Higgsfield) · usa tramos oficiales de los tráilers de GTA 6 (Rockstar)",
+   "dia": "2026-11-19",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 22,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "GTA 6 is out and everyone's live with it. 🎮\nYour stream is one tile in a very big wall today. Tomorrow, the streamers people find are the ones who posted clips tonight.\nCyclips turns tonight's stream into clips. 60 free minutes, no card needed 👉 cyclips.com\nSend this to a streamer who's live with GTA 6 tonight.\n\n#GTA6 #GTAVI #streamer #twitchstreamer #gamingclips #smallstreamer #contentcreator #streamertips #gaming #launchday",
+   "primer_comentario": null,
+   "ia": false,
+   "tiktok": {
+    "sube": true,
+    "titulo": "GTA 6 is out and everyone's live with it. 🎮"
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/r5_video.mp4"
+   ],
+   "md5": [
+    "19fff8761c8e4ab6f28f75f63381bbd8"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s11",
+   "semana": "semana_2026-11-16",
+   "id": "s11",
+   "tipo": "historia",
+   "nombre": "Historia 11 (aviso del reel GTA 6 \"Everyone's live\", sin imágenes del juego)",
+   "dia": "2026-11-19",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 23,
+   "depende_de": "r5",
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s11_video.mp4"
+   ],
+   "md5": [
+    "c106061af673af3c17387c920180c8ed"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s9",
+   "semana": "semana_2026-11-16",
+   "id": "s9",
+   "tipo": "historia",
+   "nombre": "Historia 9 (aviso del reel GTA 6 \"stream prep\", sin imágenes del juego)",
+   "dia": "2026-11-14",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 24,
+   "depende_de": "r3",
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s9_video.mp4"
+   ],
+   "md5": [
+    "ae9b40411ca296bff298a71c71287579"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__r6",
+   "semana": "semana_2026-11-16",
+   "id": "r6",
+   "tipo": "reel",
+   "nombre": "Reel \"Same clip. Two openings.\" (Video 12, valor, SIN Cyclips) · lleva la etiqueta de IA de Meta (SNOWLINE RUSH de Higgsfield) · primer comentario: \"A or B: which one do you usually post? 👇\"",
+   "dia": "2026-11-21",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 25,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "Same clip. Two openings. Only one gets watched.\nIf your clip makes people wait for the play, they're gone before it happens. Start right on the moment and cut everything before it.\nSave this for your next edit, and send it to a streamer friend who starts their clips too early.\n\n#streamertips #smallstreamer #twitchstreamer #contentcreator #gamingclips #streamer #shortformvideo #editingtips #gamingcommunity #creatortips",
+   "primer_comentario": null,
+   "ia": false,
+   "tiktok": {
+    "sube": true,
+    "titulo": "Same clip. Two openings. Only one gets watched."
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/r6_video.mp4"
+   ],
+   "md5": [
+    "022269429a189efa80c3385dc299bc85"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s12",
+   "semana": "semana_2026-11-16",
+   "id": "s12",
+   "tipo": "historia",
+   "nombre": "Historia 12 (aviso del reel \"Same clip. Two openings.\", SIN Cyclips)",
+   "dia": "2026-11-21",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 26,
+   "depende_de": "r6",
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s12_video.mp4"
+   ],
+   "md5": [
+    "06ce5b4a0a341ae132c91a6345248a72"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__c3",
+   "semana": "semana_2026-11-16",
+   "id": "c3",
+   "tipo": "carrusel",
+   "nombre": "Carrusel 3 \"Paste. Pick. Post.\"",
+   "dia": "2026-11-18",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 28,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "Turn a stream into clips in 3 steps 👇 1) Paste your link 2) Pick the moments you want 3) Post the clips. Never made a clip in your life? The agent guides you. Try it on your last stream: 60 free minutes, no card needed 👉 cyclips.com\n\n#streamer #gamingclips #contentcreator #streamertips #twitchstreamer #smallstreamer #aitools #youtubegaming",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c3_01.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c3_02.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c3_03.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c3_04.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c3_05.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c3_06.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c3_07.jpg"
+   ],
+   "md5": [
+    "14dbb7470710980559f640783cbd1ddc",
+    "530e5c8c55a67ce89c38bc8c0c993bb3",
+    "284aa73efbd3477e31d5e05197098930",
+    "c000c038293aa94a944dfb45886105ec",
+    "869e0e685bac2bc8ad6a00b415fc7f5c",
+    "8ca8963b444b91b1855f8882ac83f134",
+    "9a6d29c9a7fe8ab9a3e3ed784c8efa1e"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__c4",
+   "semana": "semana_2026-11-16",
+   "id": "c4",
+   "tipo": "carrusel",
+   "nombre": "Carrusel 4 \"5 moments every stream has\" (RESERVA: pasa a la semana del 23/11)",
+   "dia": "2026-11-25",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 29,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "5 moments every stream has, and every one is a clip 🎮 Clutch, comeback, big air, record, chat explosion. Save this for your next stream. Cyclips finds them for you 👉 cyclips.com\n\n#streamer #streamertips #gamingclips #contentcreator #twitchstreamer #smallstreamer #youtubegaming #growonyoutube",
+   "primer_comentario": null,
+   "ia": false,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c4_01.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c4_02.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c4_03.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c4_04.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c4_05.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c4_06.jpg",
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/c4_07.jpg"
+   ],
+   "md5": [
+    "959e8738d08450eedc97baacaa23284d",
+    "84e2fb8c89c27f378a2c16b8ceb461b1",
+    "01772df2a962414a53d7ccc5e13a2db9",
+    "51153c617f0fa48d3ea9fcd28bb5094f",
+    "6ca4e8330b47ca9962f4c07afc32a0e2",
+    "c34f55a58ae83ec712300c89c62e4369",
+    "83d992ffdbfcb566953ae13d3c96cf4d"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s1",
+   "semana": "semana_2026-11-16",
+   "id": "s1",
+   "tipo": "historia",
+   "nombre": "Historia 1 \"Chat, I'll be quick\"",
+   "dia": "2026-11-16",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 30,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s1_video.mp4"
+   ],
+   "md5": [
+    "430258cf519e10e31374ee2fa6a87782"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s1b",
+   "semana": "semana_2026-11-16",
+   "id": "s1b",
+   "tipo": "historia",
+   "nombre": "Historia 1b \"Six hours? Cyclips watches all of it\" (complemento de la 1)",
+   "dia": "2026-11-16",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 31,
+   "depende_de": null,
+   "pareja_de": "s1",
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s1b_video.mp4"
+   ],
+   "md5": [
+    "773d7864895f09244a74b8c3b4395f66"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s2",
+   "semana": "semana_2026-11-16",
+   "id": "s2",
+   "tipo": "historia",
+   "nombre": "Historia 2 \"Name the moment\"",
+   "dia": "2026-11-17",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 32,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s2_video.mp4"
+   ],
+   "md5": [
+    "20e1426f8eead0b27f958826abcbb696"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s3",
+   "semana": "semana_2026-11-16",
+   "id": "s3",
+   "tipo": "historia",
+   "nombre": "Historia 3 \"Chat: CLIP IT\"",
+   "dia": "2026-11-18",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 34,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s3_video.mp4"
+   ],
+   "md5": [
+    "ed8993b1d1405f3a29fddbdd4579bef8"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s3b",
+   "semana": "semana_2026-11-16",
+   "id": "s3b",
+   "tipo": "historia",
+   "nombre": "Historia 3b \"Keep playing. Cyclips clips it later.\" (complemento de la 3)",
+   "dia": "2026-11-18",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 35,
+   "depende_de": null,
+   "pareja_de": "s3",
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s3b_video.mp4"
+   ],
+   "md5": [
+    "b0f94904f19e07894e2ab1831bc141a2"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s4",
+   "semana": "semana_2026-11-16",
+   "id": "s4",
+   "tipo": "historia",
+   "nombre": "Historia 4 (aviso Carrusel 3)",
+   "dia": "2026-11-18",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 36,
+   "depende_de": "c3",
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s4_video.mp4"
+   ],
+   "md5": [
+    "ca9cd995a61a0be8696549e12ab72585"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s5",
+   "semana": "semana_2026-11-16",
+   "id": "s5",
+   "tipo": "historia",
+   "nombre": "Historia 5 \"End on the payoff\" (RESERVA: pasa a la semana del 23/11; el reel C del 21/11 da un consejo vecino)",
+   "dia": "2026-11-25",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 37,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s5_video.mp4"
+   ],
+   "md5": [
+    "f4cc033f93b616c4cb73180e0ac667bb"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s5n",
+   "semana": "semana_2026-11-16",
+   "id": "s5n",
+   "tipo": "historia",
+   "nombre": "Historia 5n \"Clip the reaction, not just the play\"",
+   "dia": "2026-11-20",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 38,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s5n_video.mp4"
+   ],
+   "md5": [
+    "cddd96aced70b5601863da86595c6a88"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s6",
+   "semana": "semana_2026-11-16",
+   "id": "s6",
+   "tipo": "historia",
+   "nombre": "Historia 6 (aviso Carrusel 4) (RESERVA, va con c4)",
+   "dia": "2026-11-25",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 39,
+   "depende_de": "c4",
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s6_video.mp4"
+   ],
+   "md5": [
+    "59ef6197069c511dabbe80d033e4f2a6"
+   ]
+  },
+  {
+   "clave": "semana_2026-11-16__s7",
+   "semana": "semana_2026-11-16",
+   "id": "s7",
+   "tipo": "historia",
+   "nombre": "Historia 7 \"Last stream of the week\"",
+   "dia": "2026-11-22",
+   "hora": "18:00",
+   "tz": "Europe/Rome",
+   "orden": 40,
+   "depende_de": null,
+   "pareja_de": null,
+   "texto": "",
+   "primer_comentario": null,
+   "ia": true,
+   "tiktok": {
+    "sube": false,
+    "titulo": null
+   },
+   "urls": [
+    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s7_video.mp4"
+   ],
+   "md5": [
+    "04809f7b84f7076ad0ee53b634f8281b"
+   ]
+  }
+ ]
+}
