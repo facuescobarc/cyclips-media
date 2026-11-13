@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T20:31:25+01:00",
+ "generado": "2026-11-13T20:44:12+01:00",
  "volcado": "2026-11-12T19:07:57+01:00",
  "publicadas_pc": [
   "semana_2026-11-09__c1",
@@ -529,7 +529,7 @@
    "id": "s3",
    "tipo": "historia",
    "nombre": "Historia 3 \"Chat: CLIP IT\"",
-   "dia": "2026-11-18",
+   "dia": "2026-11-23",
    "hora": "18:00",
    "tz": "Europe/Rome",
    "orden": 34,
@@ -555,7 +555,7 @@
    "id": "s3b",
    "tipo": "historia",
    "nombre": "Historia 3b \"Keep playing. Cyclips clips it later.\" (complemento de la 3)",
-   "dia": "2026-11-18",
+   "dia": "2026-11-23",
    "hora": "18:00",
    "tz": "Europe/Rome",
    "orden": 35,
