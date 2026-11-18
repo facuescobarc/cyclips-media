@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T22:53:04+01:00",
+ "generado": "2026-11-18T12:38:04+01:00",
  "volcado": "2026-11-16T22:51:13+01:00",
  "publicadas_pc": [
   "semana_2026-11-09__c1",
@@ -176,58 +176,6 @@
    ],
    "md5": [
     "709ebeb18b3d5c2956543df43b4db190"
-   ]
-  },
-  {
-   "clave": "semana_2026-11-16__r7",
-   "semana": "semana_2026-11-16",
-   "id": "r7",
-   "tipo": "reel",
-   "nombre": "Reel \"Consistency beats perfection\" (Video 13, publicitario: consejo con Cyclips al final) · ⚠️ Versión nueva: voz regrabada con más energía y grilla centrada. Escuchalo con sonido. · lleva la etiqueta de IA de Meta (personaje, cuarto y voz de Higgsfield) · primer comentario: \"Be honest: how long did your last clip take? 👇\"",
-   "dia": "2026-11-17",
-   "hora": "18:00",
-   "tz": "Europe/Rome",
-   "orden": 24,
-   "depende_de": null,
-   "pareja_de": null,
-   "texto": "Three hours on one clip. 212 views. Sound familiar?\nThe algorithm doesn't grade effort. Every video gets its own test, so the streamers who grow are the ones who keep showing up.\n1. Show up. One clip a day beats seven on Monday and then nothing.\n2. Good, not perfect.\n3. Ride the trend. GTA 6 drops Thursday.\nSave this for your next stream, and send it to the streamer friend who's still editing at 3 AM.\nSources: Buffer, 100K+ accounts (2025): consistent posters got ~5x more engagement per post. Buffer, 11.4M TikToks (2025): 6–10 posts a week got up to 29% more views per post than 1 a week. TikTok (2020): follower count isn't a direct factor.\nCyclips finds the clips in every live. 60 free minutes, no card needed 👉 cyclips.com\n\n#streamertips #smallstreamer #twitchstreamer #contentcreator #gamingclips #streamer #creatortips #growontiktok #contentconsistency #gta6",
-   "primer_comentario": null,
-   "ia": true,
-   "tiktok": {
-    "sube": true,
-    "titulo": "Three hours on one clip. 212 views. Sound familiar?"
-   },
-   "urls": [
-    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/r7_video.mp4"
-   ],
-   "md5": [
-    "1bf134a252a0b84e96dd93c7db616ee0"
-   ]
-  },
-  {
-   "clave": "semana_2026-11-16__s13",
-   "semana": "semana_2026-11-16",
-   "id": "s13",
-   "tipo": "historia",
-   "nombre": "Historia 13 (aviso del reel \"Consistency beats perfection\")",
-   "dia": "2026-11-17",
-   "hora": "18:00",
-   "tz": "Europe/Rome",
-   "orden": 25,
-   "depende_de": "r7",
-   "pareja_de": null,
-   "texto": "",
-   "primer_comentario": null,
-   "ia": true,
-   "tiktok": {
-    "sube": false,
-    "titulo": null
-   },
-   "urls": [
-    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s13_video.mp4"
-   ],
-   "md5": [
-    "a29dfc288bc23171ec90031743c0cd1b"
    ]
   },
   {
@@ -408,84 +356,6 @@
     "6ca4e8330b47ca9962f4c07afc32a0e2",
     "c34f55a58ae83ec712300c89c62e4369",
     "83d992ffdbfcb566953ae13d3c96cf4d"
-   ]
-  },
-  {
-   "clave": "semana_2026-11-16__s1",
-   "semana": "semana_2026-11-16",
-   "id": "s1",
-   "tipo": "historia",
-   "nombre": "Historia 1 \"Chat, I'll be quick\"",
-   "dia": "2026-11-16",
-   "hora": "18:00",
-   "tz": "Europe/Rome",
-   "orden": 34,
-   "depende_de": null,
-   "pareja_de": null,
-   "texto": "",
-   "primer_comentario": null,
-   "ia": true,
-   "tiktok": {
-    "sube": false,
-    "titulo": null
-   },
-   "urls": [
-    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s1_video.mp4"
-   ],
-   "md5": [
-    "430258cf519e10e31374ee2fa6a87782"
-   ]
-  },
-  {
-   "clave": "semana_2026-11-16__s1b",
-   "semana": "semana_2026-11-16",
-   "id": "s1b",
-   "tipo": "historia",
-   "nombre": "Historia 1b \"Six hours? Cyclips watches all of it\" (complemento de la 1)",
-   "dia": "2026-11-16",
-   "hora": "18:00",
-   "tz": "Europe/Rome",
-   "orden": 35,
-   "depende_de": null,
-   "pareja_de": "s1",
-   "texto": "",
-   "primer_comentario": null,
-   "ia": true,
-   "tiktok": {
-    "sube": false,
-    "titulo": null
-   },
-   "urls": [
-    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s1b_video.mp4"
-   ],
-   "md5": [
-    "773d7864895f09244a74b8c3b4395f66"
-   ]
-  },
-  {
-   "clave": "semana_2026-11-16__s2",
-   "semana": "semana_2026-11-16",
-   "id": "s2",
-   "tipo": "historia",
-   "nombre": "Historia 2 \"Name the moment\"",
-   "dia": "2026-11-17",
-   "hora": "18:00",
-   "tz": "Europe/Rome",
-   "orden": 36,
-   "depende_de": null,
-   "pareja_de": null,
-   "texto": "",
-   "primer_comentario": null,
-   "ia": true,
-   "tiktok": {
-    "sube": false,
-    "titulo": null
-   },
-   "urls": [
-    "https://raw.githubusercontent.com/facuescobarc/cyclips-media/main/semana_2026-11-16/s2_video.mp4"
-   ],
-   "md5": [
-    "20e1426f8eead0b27f958826abcbb696"
    ]
   },
   {
